@@ -1,4 +1,5 @@
-Project Title
+## Project Title
+
 --QR Code Component
 
 ## Project Description
